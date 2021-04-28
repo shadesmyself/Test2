@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SomeName</string>
+    <string name="image_description">Введите сюда текст</string>
+    <string name="image_url">Введите сюда URL картинки</string>
+</resources>
